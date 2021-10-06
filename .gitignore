@@ -1,0 +1,8 @@
+# Est archivo le indica al GIT cuales  archivos no deben enviarse (auqneu estén presenes)
+*.txt
+
+# Excluir proyectos que usan NODE
+node_modules/
+
+# Si es un Proyecto de C#
+build/
